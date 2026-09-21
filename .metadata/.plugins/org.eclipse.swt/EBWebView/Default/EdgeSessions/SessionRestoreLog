@@ -1,0 +1,119 @@
+{"logTime": "0827/084951", "session": "START"}
+{"logTime": "0827/084956", "session": "END"}
+{"logTime": "0827/085003", "session": "START"}
+{"logTime": "0827/111438", "session": "END"}
+{"logTime": "0828/082940", "session": "START"}
+{"logTime": "0828/102007", "session": "END"}
+{"logTime": "0830/151510", "session": "START"}
+{"logTime": "0830/151514", "session": "END"}
+{"logTime": "0830/152326", "session": "START"}
+{"logTime": "0830/152353", "session": "END"}
+{"logTime": "0830/152937", "session": "START"}
+{"logTime": "0830/152943", "session": "END"}
+{"logTime": "0830/152952", "session": "START"}
+{"logTime": "0830/153003", "session": "END"}
+{"logTime": "0830/153345", "session": "START"}
+{"logTime": "0830/171944", "session": "END"}
+{"logTime": "0831/084404", "session": "START"}
+{"logTime": "0831/091905", "session": "END"}
+{"logTime": "0831/093427", "session": "START"}
+{"logTime": "0831/102118", "session": "END"}
+{"logTime": "0831/173609", "session": "START"}
+{"logTime": "0831/174226", "session": "END"}
+{"logTime": "0901/084354", "session": "START"}
+{"logTime": "0901/122246", "session": "END"}
+{"logTime": "0901/165732", "session": "START"}
+{"logTime": "0901/165737", "session": "END"}
+{"logTime": "0901/170139", "session": "START"}
+{"logTime": "0901/182712", "session": "END"}
+{"logTime": "0902/084721", "session": "START"}
+{"logTime": "0902/102711", "session": "END"}
+{"logTime": "0908/091559", "session": "START"}
+{"logTime": "0908/091559", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0908/091651", "session": "END"}
+{"logTime": "0908/095855", "session": "START"}
+{"logTime": "0908/095855", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0908/095857", "session": "END"}
+{"logTime": "0908/100040", "session": "START"}
+{"logTime": "0908/100040", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0908/100117", "session": "END"}
+{"logTime": "0908/101036", "session": "START"}
+{"logTime": "0908/101036", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0908/102601", "session": "END"}
+{"logTime": "0909/051419", "session": "START"}
+{"logTime": "0909/051419", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0909/051448", "session": "END"}
+{"logTime": "0909/091745", "session": "START"}
+{"logTime": "0909/091745", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0909/102751", "session": "END"}
+{"logTime": "0909/102930", "session": "START"}
+{"logTime": "0909/102930", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0909/103715", "session": "END"}
+{"logTime": "0910/051801", "session": "START"}
+{"logTime": "0910/051801", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0910/051825", "session": "END"}
+{"logTime": "0910/051941", "session": "START"}
+{"logTime": "0910/051941", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0910/052139", "session": "END"}
+{"logTime": "0910/052212", "session": "START"}
+{"logTime": "0910/052212", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0910/053250", "session": "END"}
+{"logTime": "0910/092946", "session": "START"}
+{"logTime": "0910/092946", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0910/092948", "session": "END"}
+{"logTime": "0910/093512", "session": "START"}
+{"logTime": "0910/093512", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0910/093656", "session": "END"}
+{"logTime": "0910/100350", "session": "START"}
+{"logTime": "0910/100350", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0910/100400", "session": "END"}
+{"logTime": "0911/095238", "session": "START"}
+{"logTime": "0911/095238", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0911/095238", "session": "END"}
+{"logTime": "0911/095505", "session": "START"}
+{"logTime": "0911/095505", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0911/113950", "session": "END"}
+{"logTime": "0915/085435", "session": "START"}
+{"logTime": "0915/085435", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0915/095242", "session": "END"}
+{"logTime": "0915/095435", "session": "START"}
+{"logTime": "0915/095435", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0915/102627", "session": "END"}
+{"logTime": "0916/095240", "session": "START"}
+{"logTime": "0916/095240", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0916/095838", "session": "START"}
+{"logTime": "0916/095838", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0916/111456", "session": "END"}
+{"logTime": "0917/072429", "session": "START"}
+{"logTime": "0917/072429", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0917/073511", "session": "END"}
+{"logTime": "0917/090214", "session": "START"}
+{"logTime": "0917/090214", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0917/090215", "session": "END"}
+{"logTime": "0917/091704", "session": "START"}
+{"logTime": "0917/091704", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0917/091707", "session": "END"}
+{"logTime": "0917/091737", "session": "START"}
+{"logTime": "0917/091737", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0917/091740", "session": "END"}
+{"logTime": "0917/091929", "session": "START"}
+{"logTime": "0917/091929", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0917/091936", "session": "END"}
+{"logTime": "0917/092003", "session": "START"}
+{"logTime": "0917/092003", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0917/092009", "session": "END"}
+{"logTime": "0917/092122", "session": "START"}
+{"logTime": "0917/092122", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0917/092148", "session": "END"}
+{"logTime": "0917/092438", "session": "START"}
+{"logTime": "0917/092438", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0917/115250", "session": "END"}
+{"logTime": "0918/085939", "session": "START"}
+{"logTime": "0918/085939", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0918/090057", "session": "END"}
+{"logTime": "0918/091703", "session": "START"}
+{"logTime": "0918/091703", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0918/091714", "session": "END"}
+{"logTime": "0918/091749", "session": "START"}
+{"logTime": "0918/091749", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "0918/110841", "session": "END"}

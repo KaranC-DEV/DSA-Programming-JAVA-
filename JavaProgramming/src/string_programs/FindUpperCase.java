@@ -1,0 +1,32 @@
+package string_programs;
+
+public class FindUpperCase {
+
+	public static void main(String[] args) {
+		String s="ZKSBAAZ";
+		
+
+		
+		System.out.println(isUpperCase(s) ? "UpperCase":"Not a UpperCase");
+		
+	}
+
+	public static boolean isUpperCase(String s) {
+		
+		
+		
+	
+		for(int i=0; i<s.length();i++) {
+			char ch=s.charAt(i);
+			if(ch<65 || ch>90)
+				return false;
+//			if(!Character.isUpperCase(ch))
+//				return true;
+			
+		}
+	
+	   return true;
+	
+	}
+
+}

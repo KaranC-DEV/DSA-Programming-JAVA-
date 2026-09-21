@@ -1,0 +1,29 @@
+package string_programs;
+
+public class FindReverseOfWordsOfString {
+
+	public static void main(String[] args) {
+		String s="how are you";
+	    String str=reverse(s);
+	}
+
+	public static String reverse(String s) {
+		
+		String[] arr=s.split(" ");
+		String rev=null;
+		for(String s1:arr) {
+		 String res="";
+			for(int i=s1.length()-1;i>=0;i--) {
+			res+=s.charAt(i);
+		
+		}
+			 rev=String.join(" ", res).trim();
+		}
+		
+		
+		
+		return rev;
+	}
+
+}
+

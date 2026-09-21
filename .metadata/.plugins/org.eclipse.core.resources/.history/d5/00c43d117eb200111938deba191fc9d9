@@ -1,0 +1,24 @@
+package string_programs;
+
+public class FindPalindrome {
+
+	public static void main(String[] args) {
+		String s="Mom";
+		
+		if (reverseString(s)) {
+			System.out.println("palindrome");
+			
+		}
+		else
+			System.out.println("not a Palindrome");
+	}
+
+	public static boolean reverseString(String s) {
+		
+		
+		String rev= new StringBuffer(s).reverse().toString();
+		
+		return s.equalsIgnoreCase(rev);
+	}
+
+}

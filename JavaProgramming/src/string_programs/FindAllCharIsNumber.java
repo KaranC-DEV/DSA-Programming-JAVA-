@@ -1,0 +1,28 @@
+package string_programs;
+
+public class FindAllCharIsNumber {
+
+	public static void main(String[] args) {
+		String s="4852";
+		
+
+		
+		System.out.println(isNumber(s) ? "Number":"Not a Number");
+		
+	}
+
+	public static boolean isNumber(String s) {
+		
+		
+	
+		for(int i=0; i<s.length();i++) {
+			char ch=s.charAt(i);
+			if(ch<48 || ch>57)
+				return false;
+		}
+	
+	   return true;
+	
+	}
+
+}

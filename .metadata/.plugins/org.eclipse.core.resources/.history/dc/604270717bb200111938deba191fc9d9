@@ -1,0 +1,25 @@
+package string_programs;
+
+public class FindcountVowelAndConsonant {
+
+	public static void main(String[] args) {
+		
+		String s= "Hello";
+		
+		System.out.println(findCount(s));
+
+	}
+
+	public static void findCount(String s) {
+		String s1="aeiou";
+		s1.toLowerCase();
+		int vowel=0;
+		int con=0;
+		if(s1.contains(s1))
+			vowel++;
+		else
+			con++;
+		
+	}
+
+}

@@ -1,0 +1,24 @@
+package string_programs;
+
+public class FindLowerToUpper {
+
+	public static void main(String[] args) {
+		String s="abcd";
+		System.out.println(convertUppercase(s));
+	}
+
+	public static String convertUppercase(String s) {
+	     
+		
+		String res="";
+		
+		for(char ch:s.toCharArray()) {
+			
+			res+=(char)(ch-32);
+		}
+		
+		
+		return res;
+	}
+
+}
